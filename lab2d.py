@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Description: This program will use sys to output the user's name, as well as their age.
+# Description: This program will use sys to output the user's name and age, as well as output a usage message.
 import sys
 
 if len(sys.argv) != 3:
